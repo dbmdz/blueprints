@@ -22,7 +22,7 @@
     <version.jetty-maven-plugin>9.4.31.v20200723</version.jetty-maven-plugin>
     <version.junit5>5.8.2</version.junit5>
     <version.maven-compiler-plugin>3.10.1</version.maven-compiler-plugin>
-    <version.maven-surefire-plugin>3.0.0-M7</version.maven-surefire-plugin>
+    <version.maven-surefire-plugin>3.1.0</version.maven-surefire-plugin>
     <version.mockito-core>3.10.0</version.mockito-core>
     <version.servlet-api>4.0.1</version.servlet-api>
     <version.slf4j>1.7.35</version.slf4j>
