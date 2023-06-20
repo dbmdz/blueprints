@@ -17,7 +17,7 @@
   <properties>
     <version.junit5>5.8.2</version.junit5>
     <version.maven-surefire-plugin>3.1.2</version.maven-surefire-plugin>
-    <version.spring>5.1.7.RELEASE</version.spring>
+    <version.spring>6.0.10</version.spring>
   </properties>
 
   <modules>
